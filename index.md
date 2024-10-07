@@ -15,8 +15,9 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-## Title
+## Intro
 
-Body
+김범수 | 인공지능학과 24
 
-![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bumsoo0515)](https://solved.ac/bumsoo0515)
